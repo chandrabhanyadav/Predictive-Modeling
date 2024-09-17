@@ -8,7 +8,7 @@ Python
 Pandas
 Scikit-learn
 NumPy
-Dataset
+# Dataset: (https://github.com/chandrabhanyadav/Predictive-Modeling/blob/main/customer_data.csv)
 The dataset contains customer data from a telecom company. 
 Features include demographic details (e.g., age, gender),
 services subscribed (e.g., internet service, phone service), and 
